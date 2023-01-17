@@ -1,5 +1,5 @@
 <!-- Make a masterhead -->
-![MasterHead](https://imgur.com/a/beb4DFS.gif)
+![MasterHead](https://cdn.discordapp.com/attachments/700087629323960351/1064762589529260062/ezgif.com-gif-maker.gif)
 <h1 align="center">Hi 👋, I'm Andy Zhou</h1>
 <h3 align="center">A passionate Fullstack, ML, Blockchain developer in Canada</h3>
 
