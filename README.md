@@ -2,13 +2,15 @@
 ![MasterHead](https://cdn.discordapp.com/attachments/700087629323960351/1064762589529260062/ezgif.com-gif-maker.gif)
 <h1 align="center">Hi 👋, I'm Andy Zhou</h1>
 <h3 align="center">A passionate Fullstack, ML, Blockchain developer in Canada</h3>
-<img align="right" alt="CodingPfp" width="200" src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif">
+<img align="right" alt="CodingPfp" width="130" src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andyjianzhou&label=Profile%20views&color=0e75b6&style=flat" alt="andyjianzhou" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andyjianzhou" alt="andyjianzhou" /></a> </p> -->
 
 - 🔭 I’m currently working on [SafetyVision.AI](https://github.com/andyjianzhou/SafetyVision-SlightlyProfessional-)
+
+- 🔭 I’m currently working on [FireSafe](https://github.com/andyjianzhou/FireSafe)
 
 - 🌱 I’m currently learning **Django, SQL, ReactTS + CSS, Vue**
 
