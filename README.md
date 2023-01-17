@@ -1,5 +1,5 @@
 <!-- Make a masterhead -->
-[![MasterHead](https://imgur.com/IAClGwP.gif)][1]
+![MasterHead](https://imgur.com/IAClGwP)]
 <h1 align="center">Hi 👋, I'm Andy Zhou</h1>
 <h3 align="center">A passionate Fullstack, ML, Blockchain developer in Canada</h3>
 
