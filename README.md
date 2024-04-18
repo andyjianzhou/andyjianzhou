@@ -12,15 +12,13 @@
 
 - 🔭 I’m currently working on [CookBook](https://github.com/andyjianzhou/CookBook)
 
-- 🌱 I’m currently learning **Django, SQL, ReactTS + CSS, Vue**
-
 - 👯 I’m looking to collaborate on **anything!**
 
 - 🤝 I’m looking for help with **N/A**
 
 - 👨‍💻 All of my projects are available at [https://github.com/andyjianzhou?tab=repositories](https://github.com/andyjianzhou?tab=repositories)
 
-- 💬 Ask me about **ML, React, Python, Django, Db's**
+- 💬 Ask me about **ML, Software Architecture, anything code related!**
 
 - 📫 How to reach me **andyzhou727@gmail.com**
 
