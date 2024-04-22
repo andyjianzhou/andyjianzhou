@@ -1,5 +1,5 @@
 <!-- Make a masterhead -->
-![img]https://i.imgur.com/VgVeLsV.mp4
+![MasterHead]https://i.imgur.com/VgVeLsV.mp4
 <h1 align="center">Hi 👋, I'm Andy Zhou</h1>
 <h3 align="center">A passionate Fullstack, ML, Blockchain developer in Canada</h3>
 <img align="right" alt="CodingPfp" width="200" src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif">
