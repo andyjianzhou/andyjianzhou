@@ -1,5 +1,8 @@
 <!-- Make a masterhead -->
-![MasterHead](https://imgur.com/oPMKj3z.gif)
+<div align="center">
+  <img src="https://imgur.com/oPMKj3z.gif" alt="MasterHead">
+</div>
+
 <h1 align="center">Hi 👋, I'm Andy Zhou</h1>
 <h3 align="center">A passionate Fullstack, ML, Blockchain developer in Canada</h3>
 <img align="right" alt="CodingPfp" width="200" src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif">
