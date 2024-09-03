@@ -11,8 +11,6 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andyjianzhou" alt="andyjianzhou" /></a> </p> -->
 
-- 🔭 I’m currently working on [SafetyVision.AI](https://github.com/andyjianzhou/SafetyVision-SlightlyProfessional-)
-
 - 🔭 I’m currently working on [CookBook](https://github.com/andyjianzhou/CookBook)
 
 - 👯 I’m looking to collaborate on **anything!**
