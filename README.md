@@ -7,7 +7,7 @@
 <h4 align="center">Computer Science Student | Software Developer | ML & Blockchain Developer</h4>
 <img align="right" alt="CodingPfp" width="200" src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=andyjianzhou&label=Profile%20views&color=00D100&style=for-the-badge" alt="andyjianzhou" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andyjianzhou&label=Profile%20views&color=00D100&style=for-the-badge" alt="andyjianzhou" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andyjianzhou" alt="andyjianzhou" /></a> </p> -->
 
