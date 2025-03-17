@@ -31,13 +31,13 @@
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 <div align="center">
-  <table>
+  <table border="0" cellspacing="0" cellpadding="0">
     <tr>
-      <td>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=andyjianzhou&show_icons=true&locale=en" alt="andyjianzhou" height="150px"/>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=andyjianzhou&show_icons=true&theme=light&hide_border=true" alt="andyjianzhou" height="150px"/>
       </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=andyjianzhou&" alt="andyjianzhou" height="150px"/>
+      <td align="center" valign="top">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=andyjianzhou&theme=light&hide_border=true" alt="andyjianzhou" height="150px"/>
       </td>
     </tr>
   </table>
