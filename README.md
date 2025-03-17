@@ -13,15 +13,9 @@
 
 - 🔭 I’m currently working on [CookBook](https://github.com/andyjianzhou/CookBook)
 
-- 👯 I’m looking to collaborate on **anything!**
+- ⬇️ Check my pinned projects below ⬇️
 
-- 🤝 I’m looking for help with **N/A**
-
-- 👨‍💻 All of my projects are available at [here](https://github.com/andyjianzhou?tab=repositories)
-
-- 💬 Ask me about **ML, Software Architecture, anything code related!**
-
-- 📫 How to reach me **andyzhou727@gmail.com**
+- 📫 How to reach me **andyzhou727@gmail.com**. Ask me about **ML, Software Architecture, anything code related!**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
@@ -40,10 +34,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=andyjianzhou&show_icons=true&theme=dark" height="150px"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=andyjianzhou&show_icons=true&theme=transparent&hide_border=true" height="150px"/>
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=andyjianzhou&theme=dark" height="150px"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=andyjianzhou&theme=transparent&hide_border=true" height="150px"/>
       </td>
     </tr>
   </table>
