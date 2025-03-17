@@ -34,10 +34,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=andyjianzhou&show_icons=true&theme=transparent&hide_border=true" height="150px"/>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=andyjianzhou&show_icons=true&locale=en" alt="andyjianzhou" height="150px"/>
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=andyjianzhou&theme=transparent&hide_border=true" height="150px"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=andyjianzhou&" alt="andyjianzhou" height="150px"/>
       </td>
     </tr>
   </table>
