@@ -30,15 +30,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-<div align="center">
-  <table style="border-collapse: collapse; border: none;">
-    <tr>
-      <td align="center" valign="top">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=andyjianzhou&show_icons=true&theme=transparent&hide_border=true" alt="andyjianzhou" height="150px"/>
-      </td>
-      <td align="center" valign="top">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=andyjianzhou&theme=transparent&hide_border=true" alt="andyjianzhou" height="150px"/>
-      </td>
-    </tr>
-  </table>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=andyjianzhou&show_icons=true&theme=dark&hide_border=true" alt="andyjianzhou" height="150px"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=andyjianzhou&theme=dark&hide_border=true" alt="andyjianzhou" height="150px"/>
 </div>
