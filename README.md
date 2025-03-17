@@ -26,7 +26,7 @@
 <h2 align="left">💻 Tech Stack</h2>
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,css,django,flask,firebase,aws,git,graphql,html,js,linux,mysql,opencv,pandas,pytorch,react,ts,docker,redis,typescript,tensorflow,matlab,postgres" />
+    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,css,django,flask,firebase,aws,git,graphql,html,js,linux,mysql,opencv,pytorch,react,ts,docker,redis,typescript,tensorflow,matlab,postgres" />
   </a>
 </div>
   
