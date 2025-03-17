@@ -30,6 +30,6 @@
   </a>
 </div>
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap; margin-top: 30px;">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=andyjianzhou&show_icons=true&theme=dark&" alt="andyjianzhou" height="150px"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=andyjianzhou&show_icons=true&theme=dark" alt="andyjianzhou" height="150px"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=andyjianzhou&theme=dark" alt="Stats" height="150px"/>
 </div>
