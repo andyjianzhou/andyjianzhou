@@ -31,7 +31,7 @@
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
+  <table style="border-collapse: collapse; border: none;">
     <tr>
       <td align="center" valign="top">
         <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=andyjianzhou&show_icons=true&theme=light&hide_border=true" alt="andyjianzhou" height="150px"/>
